@@ -1,5 +1,9 @@
 Smart calculator with Java
 
+Featurings:
+- Evaluates mathematical expressions that have addition(=), substraction(-), multiplication(*), division(/) and parentheses operators.
+- Supports variables
+
 
 ## Cómo ejecutar
 
